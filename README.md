@@ -14,7 +14,17 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 Download here: https://github.com/ANGRYCONE/homebrew-bearder7/blob/main/install.sh
 
+# Method 1 (With Homebrew Installation)
+
+```
+brew tap ANGRYCONE/bearder7
+brew install bearder
+```
+
+# Method 2 (No Current Homebrew Installation)
+
 Go to the directory you downloaded it to and run this
+
 
 ```
 chmod +x install.sh

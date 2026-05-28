@@ -12,7 +12,17 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 # Install
 
+Download here: https://github.com/ANGRYCONE/homebrew-bearder7/blob/main/install.sh
+
+Go to the directory you downloaded it to and run this
 
 ```
-curl -fsSL https://raw.githubusercontent.com/ANGRYCONE/homebrew-bearder7/refs/heads/main/install.sh | bash
+chmod +x install.sh
+```
+```
+./install.sh
+```
+After it's done installing, run
+```
+rm -rf install.sh
 ```

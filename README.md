@@ -20,20 +20,14 @@ brew tap ANGRYCONE/bearder7
 brew install bearder
 ```
 
-# Method 2 (No Current Homebrew Installation)
-
-Go to the directory you downloaded it to and run this
+# Method 2 (Removed because broken)
 
 
-```
-chmod +x install.sh
-```
-```
-./install.sh
-```
-After it's done installing, run
-```
-rm -rf install.sh
-```
+pluh pluh pluh pluh
+
+
+
+
+
 
 # Closed Source (for now)

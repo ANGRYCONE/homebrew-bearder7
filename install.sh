@@ -108,7 +108,7 @@ print_section "ENVIRONMENT SETUP"
 print_step 1 3 "Checking Homebrew Installation..." "running"
 
 if ! command -v brew &> /dev/null; then
-    print_substep "Homebrew not found. Installing (this may take a while)..." "info"
+    print_substep "Homebrew not found. Installing silently (this may take a while)..." "info"
     # NONINTERACTIVE=1 is required so the Homebrew script doesn't pause waiting for the user to press ENTER
     NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" > /dev/null 2>&1
     

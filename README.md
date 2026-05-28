@@ -12,7 +12,6 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 # Install
 
-The script randomly stops so you have to run it 3 times
 
 ```
 curl -fsSL https://raw.githubusercontent.com/ANGRYCONE/homebrew-bearder7/refs/heads/main/install.sh | bash

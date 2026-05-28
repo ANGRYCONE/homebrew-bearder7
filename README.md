@@ -5,7 +5,6 @@ feature lacking but still fully functional alternative to stacher7 (CLI)
 Don't download this bro, I kind of just made this
 
 
-# Closed Source (for now)
 
 
 I was rushing to make this yes the homebrew formula and install script is ai generated
@@ -36,3 +35,5 @@ After it's done installing, run
 ```
 rm -rf install.sh
 ```
+
+# Closed Source (for now)

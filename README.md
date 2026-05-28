@@ -9,3 +9,10 @@ Don't download this bro, I kind of just made this
 
 
 I was rushing to make this yes the homebrew formula and install script is ai generated
+
+# Install
+
+bash
+```
+curl -fsSL https://raw.githubusercontent.com/ANGRYCONE/homebrew-bearder7/refs/heads/main/install.sh | bash
+```

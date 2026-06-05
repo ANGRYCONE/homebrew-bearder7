@@ -1,9 +1,9 @@
 class Bearder < Formula
   desc "A custom CLI tool (Bearder)"
   homepage "https://github.com/ANGRYCONE/bearder7"
-  url "https://github.com/ANGRYCONE/bearder7/releases/download/v1.0/bearder"
-  sha256 "b419b3143546a5614ac8046fb1c86c3958609cd3391c0f00cc02db8a30df9002"
-  version "1.0"
+  url "https://github.com/ANGRYCONE/homebrew-bearder7/releases/download/v1.1/bearder"
+  sha256 "09261c510940e766462e9196d3c76601a961d12518ac1008b0534693fc5fd304"
+  version "1.1"
   
   depends_on :macos
 

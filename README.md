@@ -9,7 +9,7 @@ Don't download this bro, I kind of just made this
 
 I was rushing to make this yes the homebrew formula and install script is ai generated
 
-# Install
+# **Installation**
 
 # Method 1 (With Homebrew Installation)
 

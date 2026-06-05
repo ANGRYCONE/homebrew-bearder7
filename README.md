@@ -32,3 +32,5 @@ pluh pluh pluh pluh
 
 # Closed Source (for now)
 nvm it's forever I accidentally deleted the source code (thanks pearcleaner!!)
+
+I found a backup on mega drive but I'm still keeping it closed source

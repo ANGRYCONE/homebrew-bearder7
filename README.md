@@ -13,6 +13,8 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 # Method 1 (With Homebrew Installation)
 
+(batch doesn't work btw)
+
 ```
 brew tap ANGRYCONE/bearder7
 brew install bearder

@@ -4,7 +4,7 @@ feature lacking but still fully functional alternative to stacher7 (CLI)
 # THIS WAS MADE FOR ME.
 Don't download this bro, I kind of just made this
 
-
+(batch download doesn't work btw)
 
 
 I was rushing to make this yes the homebrew formula and install script is ai generated
@@ -13,7 +13,6 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 # Method 1 (With Homebrew Installation)
 
-(batch doesn't work btw)
 
 ```
 brew tap ANGRYCONE/bearder7

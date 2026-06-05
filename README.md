@@ -11,8 +11,6 @@ I was rushing to make this yes the homebrew formula and install script is ai gen
 
 # Install
 
-Download here: https://github.com/ANGRYCONE/homebrew-bearder7/blob/main/install.sh
-
 # Method 1 (With Homebrew Installation)
 
 ```

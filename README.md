@@ -27,7 +27,4 @@ pluh pluh pluh pluh
 
 
 # Closed Source (for now)
-nvm it's forever I accidentally deleted the source code (thanks pearcleaner!! still a great program use it.)
-
-I found a backup on mega drive but I'm still keeping it closed source
-I accidentally deleted the new source code and I only have the old one (this one wasn't pearcleaners fault!)
+maybe forever, depends if I want people to steal it

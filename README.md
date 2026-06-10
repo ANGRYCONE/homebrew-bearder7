@@ -1,4 +1,4 @@
-# bearder7 (macOS ONLY)
+# bearder7 (macOS and Linux ONLY)
 feature lacking but still fully functional alternative to stacher7 (CLI)
 
 # THIS WAS MADE FOR ME.

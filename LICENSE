@@ -1,0 +1,67 @@
+Copyright (c) 2026 ANGRYCONE
+https://github.com/ANGRYCONE
+
+ATTRIBUTION ASSURANCE LICENSE (adapted from the original BSD license)
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the conditions below are met.
+
+These conditions require clear and prominent attribution to ANGRYCONE
+(the "Author"), who hopes that its promotional value may help justify
+the time invested in writing this and other freely available,
+open-source software.
+
+1. Redistributions of source code, in whole or part and with or without
+   modification (the "Code"), must include this license file, and must
+   also display clear attribution to the Author within the Code itself
+   (e.g., in a header comment of a main source file) — not solely
+   within this license file.
+
+2. Redistributions of the Code in binary or compiled form must be
+   accompanied by this license file, and must display a prominent,
+   visible attribution to the Author (e.g., in a startup banner,
+   `--version`/`--about` output, splash screen, or the top section of
+   the project's README) which includes:
+   (a) Name ("ANGRYCONE"), and
+   (b) URL ("https://github.com/ANGRYCONE").
+
+   Attribution placed only in this LICENSE file, a changelog, or the
+   bottom/footer of a README does NOT satisfy this requirement.
+
+3. Neither the name nor any trademark of the Author may be used to
+   endorse or promote products derived from this software without
+   specific prior written permission. No redistribution, fork, or
+   derivative may be represented as the official, original, or
+   Author-endorsed release, or imply the Author's endorsement,
+   involvement, or approval, without such permission.
+
+4. CREATOR EXEMPTION: The Author (ANGRYCONE) is exempt from the
+   attribution requirements in Sections 1 and 2 for the Author's own
+   official releases, forks, or distributions of this Code, and may
+   distribute such official versions with or without the attribution
+   notice, at the Author's sole discretion.
+
+5. Users are entirely responsible, to the exclusion of the Author and
+   any other persons, for compliance with
+   (1) regulations set by owners or administrators of employed
+       equipment,
+   (2) licensing terms of any other software (including but not
+       limited to yt-dlp and ffmpeg, which retain their own
+       independent licenses), and
+   (3) local regulations regarding use, including those regarding
+       import, export, and use of related software.
+
+THIS FREE SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, EFFECTS OF
+UNAUTHORIZED OR MALICIOUS NETWORK ACCESS; PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+— End of License

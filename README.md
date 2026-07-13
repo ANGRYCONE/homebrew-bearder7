@@ -26,5 +26,5 @@ Closed source for now. Maybe forever, depends if I want people stealing it.
 The compiled executable is released and free to use. The source code is
 closed for now, so there's nothing to modify or redistribute yet. If
 that changes, any released source will fall under a custom Attribution
-Assurance License (see [LICENSE](./LICENSE)) — usable and modifiable,
+Assurance License (see [LICENSE](./LICENSE)), usable and modifiable,
 but no stripping credit or passing it off as your own work.

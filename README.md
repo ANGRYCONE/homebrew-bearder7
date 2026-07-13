@@ -13,10 +13,6 @@ brew tap ANGRYCONE/bearder7
 brew install bearder
 ```
 
-### Method 2
-
-Removed, was broken.
-
 ## Source
 
 Closed source for now. Maybe forever, depends if I want people stealing it.
